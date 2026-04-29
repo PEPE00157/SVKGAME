@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1777478513,
+	"version": 1777487034,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,9 +12,11 @@
 		"images/beta-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/x-sheet0.png",
-		"media/กด.ogg",
+		"images/เปิดปิดเพลง-sheet0.png",
+		"images/เปิดปิดซาวข้าว-sheet0.png",
 		"media/เสียงเกม.ogg",
 		"media/แพ้.ogg",
+		"media/กด1.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
